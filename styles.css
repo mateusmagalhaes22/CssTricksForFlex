@@ -88,6 +88,18 @@
     align-items: stretch;
 }
 
+.stretch-div {
+    margin: 15px;
+    display: flex;
+    height: 75%;
+    width: 85%;
+}
+
+.stretch-div > div {
+    width: 50px;
+    border-radius: 5px;
+}
+
 .content > div {
     width: 50px;
     height: 50px;
