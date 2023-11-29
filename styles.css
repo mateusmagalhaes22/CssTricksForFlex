@@ -1,0 +1,18 @@
+.macro_section {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: rgb(223, 189, 189);
+    border-radius: 10px;
+    min-height: 200px;
+    margin: 10px;
+    box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.7), inset -3px -3px 0px rgba(0, 0, 0, 0.342);
+}
+.micro_section {
+    background-color: rgb(219, 255, 255);
+    border-radius: 10px;
+    width: 180px;
+    height: 180px;
+    margin: 10px;
+    box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.7), inset -3px -3px 0px rgba(0, 0, 0, 0.342);
+}
